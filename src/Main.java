@@ -58,7 +58,7 @@ public class Main {
             case 3001:
                 self_id = 2;
                 break;
-            case 3003:
+            case 3002:
                 self_id = 3;
                 break;
             default:
